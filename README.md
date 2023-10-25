@@ -9,6 +9,5 @@
 
 ### Business Issue
 ##### Scenario: 
-###### The Sales Director requires a comprehensive overview of all operations, and the data provided by Regional Sales Managers falls short. Simply receiving numbers or sifting through numerous Excel files doesn't 
-###### provide an effective understanding of the business. The Sales Director seeks immediate insights from the data to grasp the current situation.
+###### The Sales Director requires a comprehensive overview of all operations, and the data provided by Regional Sales Managers falls short. Simply receiving numbers or sifting through numerous Excel files doesn't provide an effective understanding of the business. The Sales Director seeks immediate insights from the data to grasp the current situation.
 
