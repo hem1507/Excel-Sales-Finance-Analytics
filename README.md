@@ -21,7 +21,7 @@
 
 ### Steps Taken for Data Preparation:
 ###### 1. ETL (Extract, Transformation, Load) - Once I've familiarized myself with the fundamental characteristics of the data, I consolidated them into a single Excel file which will allow me to perform the required transformations, ultimately resulting in a straightforward, dependable, and valuable report.
-###### 2. Data Modelling - We have five tables, and it's crucial to establish the correct connections between them to ensure data integrity and facilitate meaningful analysis.
+###### 2. Data Modelling - We have five tables, and it's crucial to establish the correct connections between them to ensure data integrity and facilitate meaningful analysis. https://github.com/hem1507/Excel-Sales-Analytics/blob/main/Diagram%20View.png
 
 ### Final Reports Prepared:
 ###### 1. Customer Performance Report https://github.com/hem1507/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf
