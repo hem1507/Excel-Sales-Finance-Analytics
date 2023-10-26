@@ -23,3 +23,12 @@
 ###### 1. ETL (Extract, Transformation, Load) - Once I've familiarized myself with the fundamental characteristics of the data, I consolidated them into a single Excel file which will allow me to perform the required transformations, ultimately resulting in a straightforward, dependable, and valuable report.
 ###### 2. Data Modelling - We have five tables, and it's crucial to establish the correct connections between them to ensure data integrity and facilitate meaningful analysis.
 
+### Final Reports Prepared:
+###### 1. Customer Performance Report
+###### 2. Market Performance vs Target Report
+###### 3. Division & Platform Level Sales Report
+###### 4. Top & Bottom 5 products by Qty Sold
+###### 5. Top 5 Country 2021 by Sales
+###### 6. Top 10 Products 2021 vs 2020
+###### 7. New Products in 2021
+
