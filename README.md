@@ -36,4 +36,5 @@
 ###### 1. P & L by Fiscal Year https://github.com/hem1507/Excel-Sales-Finance-Analytics/blob/main/P%20%26%20L%20by%20Fiscal%20Year.pdf
 ###### 2. P & L by Market https://github.com/hem1507/Excel-Sales-Finance-Analytics/blob/main/P%20%26%20L%20by%20Market.pdf
 ###### 3. GM% by Qtrs Sub-Zone https://github.com/hem1507/Excel-Sales-Finance-Analytics/blob/main/GM%25%20by%20Qtrs%20Sub-Zone.pdf
+###### 4. P & L by Fiscal Months & Qtrs https://github.com/hem1507/Excel-Sales-Finance-Analytics/blob/main/P%20%26%20L%20by%20Fiscal%20Months%20%26%20Qtrs.pdf
 
