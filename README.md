@@ -24,11 +24,11 @@
 ###### 2. Data Modelling - We have five tables, and it's crucial to establish the correct connections between them to ensure data integrity and facilitate meaningful analysis.
 
 ### Final Reports Prepared:
-###### 1. Customer Performance Report
-###### 2. Market Performance vs Target Report
-###### 3. Division & Platform Level Sales Report
-###### 4. Top & Bottom 5 products by Qty Sold
-###### 5. Top 5 Country 2021 by Sales
-###### 6. Top 10 Products 2021 vs 2020
-###### 7. New Products in 2021
+###### 1. Customer Performance Report https://github.com/hem1507/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf
+###### 2. Market Performance vs Target Report https://github.com/hem1507/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf
+###### 3. Division & Platform Level Sales Report https://github.com/hem1507/Excel-Sales-Analytics/blob/main/Division%20%26%20Platform%20Level%20Sales.pdf
+###### 4. Top & Bottom 5 products by Qty Sold https://github.com/hem1507/Excel-Sales-Analytics/blob/main/Top%20%26%20Bottom%205%20products%20by%20Qty%20Sold.pdf
+###### 5. Top 5 Country 2021 by Sales https://github.com/hem1507/Excel-Sales-Analytics/blob/main/Top%205%20Country%202021%20by%20Sales.pdf
+###### 6. Top 10 Products 2021 vs 2020 https://github.com/hem1507/Excel-Sales-Analytics/blob/main/Top%2010%20Products%2021%20vs%2020.pdf
+###### 7. New Products in 2021 https://github.com/hem1507/Excel-Sales-Analytics/blob/main/New%20Products%20in%202021.pdf
 
